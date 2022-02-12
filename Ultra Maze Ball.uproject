@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.20",
 	"Category": "",
-	"Description": "",
-	"TargetPlatforms": [
-		"Android",
-		"AllDesktop",
-		"HTML5",
-		"IOS",
-		"WindowsNoEditor"
-	]
+	"Description": ""
 }
